@@ -4,14 +4,14 @@ import "../styles/globals.css";
 
 let title = "Dream Room Generator";
 let description = "Generate your dream room in seconds.";
-let ogimage = "https://roomgpt-demo.vercel.app/og-image.png";
-let sitename = "roomGPT.io";
+let ogimage = "https://rsthomasp.com/media/images/website/website-logo.svg";
+let sitename = "rsthomasp.com";
 
 export const metadata: Metadata = {
   title,
   description,
   icons: {
-    icon: "/favicon.ico",
+    icon: "https://rsthomasp.com/media/images/website/website-logo.svg",
   },
   openGraph: {
     images: [ogimage],

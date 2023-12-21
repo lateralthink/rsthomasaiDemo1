@@ -6,29 +6,12 @@ export default function Footer() {
       <div className="text-gray-500">
         Powered by{" "}
         <a
-          href="https://replicate.com/"
+          href="https://lateralthink.club/"
           target="_blank"
           rel="noreferrer"
           className="font-bold hover:underline transition hover:text-gray-300 underline-offset-2"
         >
-          Replicate,{" "}
-        </a>
-        <a
-          href="https://www.bytescale.com/"
-          target="_blank"
-          rel="noreferrer"
-          className="font-bold hover:underline hover:text-gray-300 transition underline-offset-2"
-        >
-          Bytescale,{" "}
-        </a>
-        and{" "}
-        <a
-          href="https://vercel.com/"
-          target="_blank"
-          rel="noreferrer"
-          className="font-bold hover:underline transition hover:text-gray-300 underline-offset-2"
-        >
-          Vercel.
+          LateralThink{" "}
         </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
